@@ -1,0 +1,2 @@
+# PythonMiniProject
+cricket statistics 
