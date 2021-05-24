@@ -1,2 +1,6 @@
 # PythonMiniProject
-cricket statistics 
+CRICKET STATISTICS
+made by Jay Zobalia, Sahil Sayani and Gaurav Mehta
+
+
+
